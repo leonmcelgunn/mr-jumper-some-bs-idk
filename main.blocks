@@ -1,0 +1,10 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="@Ho*s!HIc)WC:T.jqxpF">mySprite</variable><variable id="``Mpqh8nf-UhX`9hZnhT">Mr Jumper</variable><variable type="KIND_SpriteKind" id="Zv8jTPK5;O/;a|2?qAhx">Player</variable><variable type="KIND_SpriteKind" id="sfw+Me|Mk`|NWxB)6]q0">Projectile</variable><variable type="KIND_SpriteKind" id=",c62K`Q]y3qtqh.Z`+wh">Food</variable><variable type="KIND_SpriteKind" id="};;$[_Ci1ljWdgb]#8cf">Enemy</variable></variables><block type="pxt-on-start" id="Ut`A#pD}Qis%nDhjB-1k" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="dQ(=UEs!hS?W5,eAa`i("><field name="VAR" id="``Mpqh8nf-UhX`9hZnhT">Mr Jumper</field><value name="VALUE"><shadow type="math_number" id="L(fZ(,KQsPP+l^++aQ=^"><field name="NUM">0</field></shadow><block type="spritescreate" id="i9suK-ZgN@2i4RR+;W3V"><value name="img"><shadow type="screen_image_picker" id="~P]};7uf9gP(?bWTe(hu"><field name="img">img`
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="_{~Wl=Ph:nb7NC(AZ%iL"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
